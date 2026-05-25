@@ -1,5 +1,7 @@
 # Projects
 
+<!-- GitHub profile README. -->
+
 ## mdbase
 
 | Repository | Website | Description |
