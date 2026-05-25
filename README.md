@@ -20,6 +20,10 @@
 | Repository | Description |
 |---|---|
 | [tickle](https://github.com/callumalpass/tickle) | A tiny, tiny cross-platform automation daemon for scheduled jobs, script-gated triggers, and agent workflows. [site](https://callumalpass.github.io/tickle/) |
+| [pickle](https://github.com/callumalpass/pickle) | mdbase-backed local inbox for typed human requests, approvals, attachments, and agent handoffs. |
+| [pickle-android](https://github.com/callumalpass/pickle-android) | Android client for Pickle, with Tailscale-friendly notifications and mdbase-defined response forms. |
+| [pickle-obsidian](https://github.com/callumalpass/pickle-obsidian) | Obsidian approval center for browsing and responding to mdbase-backed Pickle requests. |
+| [pickle-obsidian-skill](https://github.com/callumalpass/pickle-obsidian-skill) | Agent skill for creating and handling Pickle approval-center requests. |
 | [shell-report](https://github.com/callumalpass/shell-report) | Re-executable Markdown and HTML reports using `data-cmd` attributes. [site](https://callumalpass.github.io/shell-report-site/) |
 | [ops](https://github.com/callumalpass/ops) | Local DevOps workflows using Markdown sidecars and command templates. |
 
