@@ -6,7 +6,7 @@
 
 | Repository | Description |
 |---|---|
-| [mdbase-spec](https://github.com/callumalpass/mdbase-spec) | Typed Markdown Collections specification for treating folders of Markdown files as typed, queryable data collections. [mdbase.dev](https://mdbase.dev) |
+| [mdbase-spec](https://github.com/callumalpass/mdbase-spec) | Typed Markdown Collections specification for treating folders of Markdown files as typed, queryable data collections. |
 | [mdbase](https://github.com/callumalpass/mdbase) | TypeScript implementation of the mdbase specification. |
 | [mdbase-cli](https://github.com/callumalpass/mdbase-cli) | CLI for validating, querying, formatting, importing, exporting, and operating on mdbase collections. |
 | [mdbase-rs](https://github.com/callumalpass/mdbase-rs) | Rust implementation of mdbase. |
@@ -23,11 +23,11 @@
 | [shell-report](https://github.com/callumalpass/shell-report) | Re-executable Markdown and HTML reports using `data-cmd` attributes. [site](https://callumalpass.github.io/shell-report-site/) |
 | [ops](https://github.com/callumalpass/ops) | Local DevOps workflows using Markdown sidecars and command templates. |
 
-## TaskNotes
+##  [TaskNotes](https://tasknotes.dev) 
 
 | Repository | Description |
 |---|---|
-| [tasknotes](https://github.com/callumalpass/tasknotes) | Task and time-tracking management for Obsidian, with tasks stored as Markdown notes and views powered by Obsidian Bases. [tasknotes.dev](https://tasknotes.dev) |
+| [tasknotes](https://github.com/callumalpass/tasknotes) | Task and time-tracking management for Obsidian, with tasks stored as Markdown notes and views powered by Obsidian Bases.|
 | [tasknotes-spec](https://github.com/callumalpass/tasknotes-spec) | Standalone specification and conformance suite for representing and operating on task data stored in Markdown files. |
 | [mdbase-tasknotes](https://github.com/callumalpass/mdbase-tasknotes) | Standalone CLI for managing Markdown tasks through mdbase, including natural language task creation. |
 | [tasknotes-cli](https://github.com/callumalpass/tasknotes-cli) | Command-line interface for TaskNotes with NLP task creation, filtering, and FZF integration. |
