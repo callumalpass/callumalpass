@@ -19,7 +19,7 @@
 
 | Repository | Description |
 |---|---|
-| [tickle](https://github.com/callumalpass/tickle) | Tiny cross-platform automation daemon for scheduled jobs, script-gated triggers, and agent workflows. [site](https://callumalpass.github.io/tickle/) |
+| [tickle](https://github.com/callumalpass/tickle) | A tiny, tiny cross-platform automation daemon for scheduled jobs, script-gated triggers, and agent workflows. [site](https://callumalpass.github.io/tickle/) |
 | [shell-report](https://github.com/callumalpass/shell-report) | Re-executable Markdown and HTML reports using `data-cmd` attributes. [site](https://callumalpass.github.io/shell-report-site/) |
 | [ops](https://github.com/callumalpass/ops) | Local DevOps workflows using Markdown sidecars and command templates. |
 
